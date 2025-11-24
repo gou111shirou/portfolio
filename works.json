@@ -1,0 +1,32 @@
+[
+    {
+        "id": 1,
+        "title": "Iscariot, Horror",
+        "image": "assets/images/project1.png",
+        "description": "I was the second lead developer on a project. I designed the interface, wrote a lot of the scripts (mainly frontend), and worked on the story. <br/> The game was released in 2024, and has long since lost its relevance.",
+        "video": "https://www.youtube.com/watch?v=ROtBO8WNm0I",
+        "alt": "Horror",
+        "category": "projects"
+    },
+
+    {
+        "id": 2,
+        "title": "Lost Destiny, RPG",
+        "image": "assets/images/project2.png",
+        "description": "UNRELEASED. <br/> My first BIG solo project, which was started and abandoned in 2023. It features fully functional Race and Combat systems.",
+        "video": "https://www.youtube.com/watch?v=VzZXtHmsQkM",
+        "alt": "RPG",
+        "category": "projects"
+    },
+
+    {
+        "id": 3,
+        "title": "Monster Mash, Roguelike",
+        "image": "assets/images/project3.png",
+        "description": "UNRELEASED. No game sounds or animations on the video. <br/> A recent vampire-survivors-like project that was abandoned due to lack of development time and money. Here I was HEAVILY involved in the scripting, using Parallel Luau for the mob spawn system. <br/> UI was designed and implemented by me.",
+        "video": "https://www.youtube.com/watch?v=3f1nTXfbbU4",
+        "alt": "Roguelike",
+        "category": "projects"
+    }
+]
+
